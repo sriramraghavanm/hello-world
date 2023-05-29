@@ -1,5 +1,5 @@
 <form action="action_page.jsp">
-<h1>New user Register for DevOps Learning</h1>
+<h1>New user registration for DevOps Learning</h1>
 <p>Please fill in this form to create an account.</p>    
  
 <label for="Name"><b>Enter Name</b></label>
